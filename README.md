@@ -121,17 +121,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📁 Project Structure
-Manufacturing_LR/
-│── app.py
-│── main.ipynb
-│── linear_regression_model.pkl
-│── scaler.pkl
-│── feature_columns.json
-│── manufacturing_dataset_1000_samples.csv
-│── requirements.txt
-│── README.md
-
 
 🧰 Technologies Used
 
